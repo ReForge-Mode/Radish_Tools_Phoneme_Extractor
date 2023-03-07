@@ -3,10 +3,8 @@
 This repo contains only the Phoneme Extractor tools from **Radish Modding Tools** made by Witcher 3 modding community. It was originally made by **rmemr**. I am mirroring the build version for ease of download for those who just want to use the Phoneme Extractor tool. 
 
 I highly recommend everyone to check out the full pack!
-
-Full Radish Tools here: https://www.nexusmods.com/witcher3/mods/3620?tab=description
-
-Phoneme Extractor Repo: https://codeberg.org/rmemr/w3.phoneme-extractor
+- Full Radish Tools here: https://www.nexusmods.com/witcher3/mods/3620?tab=description
+- Phoneme Extractor Repo: https://codeberg.org/rmemr/w3.phoneme-extractor
 
 <p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/Demo.jpg" width=100% height=100%></p>
 

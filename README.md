@@ -18,9 +18,11 @@ Phoneme Extractor Repo: https://codeberg.org/rmemr/w3.phoneme-extractor
 
 <p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/2.jpg" width=75% height=75%></p>
 
-3. Open the **template.speech.csv** and add enter the voice lines text there. 
+3. Open the **template.speech.csv** and enter the voice lines text there. Follow the direction on the text files.
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3.jpg" width=75% height=75%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3a.jpg" width=75% height=75%></p>
+
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3b.jpg" width=75% height=75%></p>
 
 4. Run **w3speech-phoneme-extractor.exe**
 

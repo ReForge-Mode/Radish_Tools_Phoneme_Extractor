@@ -8,6 +8,8 @@ Full Radish Tools here: https://www.nexusmods.com/witcher3/mods/3620?tab=descrip
 
 Phoneme Extractor Repo: https://codeberg.org/rmemr/w3.phoneme-extractor
 
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/Demo.jpg" width=100% height=100%></p>
+
 # How to Use
 
 1. Make sure your audio voice files are in this format: **16-bit .wav, mono channel, 44.1 khz**

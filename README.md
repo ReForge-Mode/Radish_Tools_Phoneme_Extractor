@@ -14,22 +14,22 @@ I highly recommend everyone to check out the full modding tools. This community 
 
 2. Put your recording files in the **audio.wav** folder
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/2.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/2.jpg" width=80% height=80%></p>
 
 3. Open the **template.speech.csv** and enter the voice lines text there. Follow the direction on the text files.
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3a.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3a.jpg" width=80% height=80%></p>
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3b.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/3b.jpg" width=80% height=80%></p>
 
 4. Run **w3speech-phoneme-extractor.exe**
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/4.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/4.jpg" width=80% height=80%></p>
 
 5. In the new window, click **File > Load Audio** and locate your **audio.wav folder**
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/5.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/5.jpg" width=80% height=80%></p>
 
 6. Wait until each lines are **[ done ]**
 
-<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/6.jpg" width=90% height=90%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/6.jpg" width=80% height=80%></p>

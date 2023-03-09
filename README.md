@@ -8,6 +8,8 @@ I highly recommend everyone to check out the full modding tools. This community 
 
 <p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/Demo.jpg" width=100% height=100%></p>
 
+
+
 # How to Use
 
 1. Make sure your audio voice files are in this format: **16-bit .wav, mono channel, 44.1 khz**
@@ -33,3 +35,35 @@ I highly recommend everyone to check out the full modding tools. This community 
 6. Wait until each lines are **[ done ]**
 
 <p align="center"><img src="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/6.jpg" width=80% height=80%></p>
+
+
+
+# License Information
+
+From the original page: w3speech-phoneme-extractor is free software: you can redistribute it and/or modify it under the terms of the GPL v3+. It uses third party libraries that are distributed under their own terms:
+
+- CMU Pocketsphinx library
+
+- Copyright (c) 1999-2016 Carnegie Mellon University.
+
+- https://github.com/cmusphinx/pocketsphinx
+
+- BSD-like license (see https://github.com/cmusphinx/pocketsphinx/blob/master/LICENSE)
+
+- CMU Sphinx common libraries
+
+- Copyright (c) 1999-2016 Carnegie Mellon University.
+
+- https://github.com/cmusphinx/sphinxbase
+
+- BSD-like license (see https://github.com/cmusphinx/sphinxbase/blob/master/LICENSE)
+
+- eSpeak Library
+
+- Copyright (c) 1995-2014 by Jonathan Duddington
+
+- http://espeak.sourceforge.net
+
+- GPL v3 (http://espeak.sourceforge.net/license.html)
+
+I also asked for the creator's permission. You can see it <a href="https://github.com/FFaUniHan/Radish_Tools_Phoneme_Extractor/blob/main/Permission.jpg">**here**</a>

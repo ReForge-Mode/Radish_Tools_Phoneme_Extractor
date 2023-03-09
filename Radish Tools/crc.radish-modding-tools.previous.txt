@@ -1,0 +1,49 @@
+-------------------------------------------------------------------------------
+Previous (outdated) versions
+-------------------------------------------------------------------------------
+
+-------------------------------
+w3speech-phoneme-extractor.exe
+-------------------------------
+
+- v0.6.2
+    size: 3161088 bytes
+    md5: 09d1673a267b9b663e1184d929beeb5f
+    sha256: 5cdc3495b8f785ba5b1b47223b805649792c44f6fcaad75e645c73820e697476
+
+- v0.6.1
+    size: 3152384 bytes
+    md5: 1cce34504c3815e33f5a2a0416f7067a
+    sha256: 3759f9f628af4d62394c6e37a0171a9aca1f76d1715953e064627840ed282bcf
+
+- v0.4.0:
+    size: 718872 bytes
+    md5: 3e69caf635f79980fff214d04b2b4860
+    sha256: a14a9b0d359e1ad40f4201dec4be81976a90be2e8648edc75ce916b747650952
+
+CRC for espeak_lib.dll
+
+- v0.6.2
+    size: 457728 bytes
+    md5: cb922b5f03d9ea1123738b93233e4cde
+    sha256: aba903d79cb0144ff57afbd608aae783d3a1aacf1aa3b3d8aec54250330ee03e
+
+- v0.6.1
+    size: 457728 bytes
+    md5: cb922b5f03d9ea1123738b93233e4cde
+    sha256: aba903d79cb0144ff57afbd608aae783d3a1aacf1aa3b3d8aec54250330ee03e
+
+- v0.4.0
+    size: 457728 bytes
+    md5: 9fce3526a1e048e09f3157891e07822e
+    sha256: 1c31f093b5e6b26bf84d370dac59b18da7a4a4f0312815b3dbd9f60ce428ea56
+
+CRC for pocketsphinx.dll (0.4.0)
+    size: 239616 bytes
+    md5: c009346fea2982d3af98f23254ab4fa6
+    sha256: ea76935ade39051d1c9fd9f369d212faa74fee1658b2bd7d22aed0d19cc89f64
+
+CRC for sphinxbase.dll (0.4.0)
+    size: 265216 bytes
+    md5: 565c8a6e694e8b4d163ae38cb482ef14
+    sha256: f80d2d87dd6fad67fee7de3954779a6dbfc746b154668d60b44a6ef3122f6670

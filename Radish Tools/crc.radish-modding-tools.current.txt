@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Current version                                                     2020-11-21
+-------------------------------------------------------------------------------
+
+espeak_lib.dll
+    version: v0.6.3
+    size: 457728 bytes
+    md5: cb922b5f03d9ea1123738b93233e4cde
+    sha256: aba903d79cb0144ff57afbd608aae783d3a1aacf1aa3b3d8aec54250330ee03e
+
+pocketsphinx.dll
+    version: v0.6.3
+    size: 239616 bytes
+    md5: c009346fea2982d3af98f23254ab4fa6
+    sha256: ea76935ade39051d1c9fd9f369d212faa74fee1658b2bd7d22aed0d19cc89f64
+
+sphinxbase.dll
+    version: v0.6.3
+    size: 265216 bytes
+    md5: 565c8a6e694e8b4d163ae38cb482ef14
+    sha256: f80d2d87dd6fad67fee7de3954779a6dbfc746b154668d60b44a6ef3122f6670
+
+w3speech-phoneme-extractor.exe
+    version: v0.6.3
+    size: 3099648 bytes
+    md5: 9719501dbe6a728c8ca9b32f3b2fbb14
+    sha256: c66ff64b6e069c31a791fe83c17cc0ad92343f46dd1a726fde96a5d9723202d7
